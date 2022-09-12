@@ -1,7 +1,9 @@
 {
- "name": "tanghuay 24",
+- "name": "tanghuay 24",
++ "name": "แทงหวย24",
  "theme": "ui",
- "version": "1.0.0",
+- "version": "1.0.0",
++ "version": "2.0.0",
  "description": "แทงหวยออนไลน์ จ่ายสูงสุดบาทละ 100 หวยฮานอย หวยยี่กี่ หวยหุ้น",
  "keywords": [
    "แทงหวยออนไลน์",
